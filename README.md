@@ -24,5 +24,17 @@ Aquí hay algunas de las tecnologías y lenguajes de programación que utilizo:
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+- ## Experiencia Laboral
+
+- **Google**
+  - Desarrollador de Software (Año de inicio - Año de finalización)
+
+- **Proyecto Z**
+  - [Descripción del rol o proyectos] (Año de inicio - Año de finalización)
+
+## Lenguajes de Programación
+
+Aquí hay algunas de las tecnologías y lenguajes de programación que utilizo:
+
 ¡No dudes en explorar los proyectos en este repositorio y en contactarme en Discord para cualquier pregunta o sugerencia! 😊
 
