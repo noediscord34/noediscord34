@@ -20,5 +20,9 @@ Cuando estoy programando, me gusta escuchar música. Aquí puedes encontrar lo q
 
 ---
 
+Aquí hay algunas de las tecnologías y lenguajes de programación que utilizo:
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ¡No dudes en explorar los proyectos en este repositorio y en contactarme en Discord para cualquier pregunta o sugerencia! 😊
 
